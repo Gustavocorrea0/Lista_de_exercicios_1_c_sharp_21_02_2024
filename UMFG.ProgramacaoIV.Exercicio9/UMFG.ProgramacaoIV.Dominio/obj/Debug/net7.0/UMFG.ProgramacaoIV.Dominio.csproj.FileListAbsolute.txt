@@ -1,0 +1,48 @@
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.deps.json
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.deps.json
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.deps.json
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.deps.json
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Dominio.dll

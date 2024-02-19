@@ -1,0 +1,72 @@
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.exe
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.deps.json
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.pdb
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.pdb
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.exe
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.deps.json
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.runtimeconfig.json
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.pdb
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.pdb
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.exe
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.deps.json
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.runtimeconfig.json
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.pdb
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.pdb
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\umfg-programacao-iv-aula-15-02-2024\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.exe
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.deps.json
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.pdb
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Apresentacao.dll
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.pdb
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio9\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Apresentacao.dll

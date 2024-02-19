@@ -1,0 +1,5 @@
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio10\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio10\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio10\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio10\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Gustavo Arquivos 5\Programacao 4\Trabalho1\UMFG.ProgramacaoIV.Exercicio10\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.CoreCompileInputs.cache
