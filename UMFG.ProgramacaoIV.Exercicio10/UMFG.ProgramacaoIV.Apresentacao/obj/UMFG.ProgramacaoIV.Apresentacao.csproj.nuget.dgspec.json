@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj",
         "projectName": "UMFG.ProgramacaoIV.Apresentacao",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Apresentacao\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Apresentacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj"
+              "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj",
         "projectName": "UMFG.ProgramacaoIV.Dominio",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",

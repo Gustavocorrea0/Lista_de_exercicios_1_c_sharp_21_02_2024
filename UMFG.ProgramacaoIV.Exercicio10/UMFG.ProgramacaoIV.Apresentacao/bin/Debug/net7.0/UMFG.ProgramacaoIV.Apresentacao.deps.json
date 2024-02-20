@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UMFG.ProgramacaoIV.Apresentacao/1.0.0": {
+        "dependencies": {
+          "UMFG.ProgramacaoIV.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "UMFG.ProgramacaoIV.Apresentacao.dll": {}
+        }
+      },
+      "UMFG.ProgramacaoIV.Dominio/1.0.0": {
+        "runtime": {
+          "UMFG.ProgramacaoIV.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UMFG.ProgramacaoIV.Apresentacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UMFG.ProgramacaoIV.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

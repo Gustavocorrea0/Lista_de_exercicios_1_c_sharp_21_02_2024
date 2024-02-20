@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj",
       "projectName": "UMFG.ProgramacaoIV.Dominio",
-      "projectPath": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj",
+      "projectPath": "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\UMFG.ProgramacaoIV.Dominio.csproj",
       "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\Gustavo\\Desktop\\UMFG.ProgramacaoIV.Exercicio10\\UMFG.ProgramacaoIV.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",

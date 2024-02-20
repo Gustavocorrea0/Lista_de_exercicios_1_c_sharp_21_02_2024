@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio1a8\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio1A8\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio1a8\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio1A8\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio1a8\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio1A8\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj",
         "projectName": "UMFG.ProgramacaoIV.Apresentacao",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio1a8\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio1A8\\UMFG.ProgramacaoIV.Apresentacao\\UMFG.ProgramacaoIV.Apresentacao.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gustavo\\Desktop\\Gustavo Arquivos 5\\Programacao 4\\Trabalho1\\UMFG.ProgramacaoIV.Exercicio1a8\\UMFG.ProgramacaoIV.Apresentacao\\obj\\",
         "projectStyle": "PackageReference",

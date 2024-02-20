@@ -15,7 +15,7 @@ namespace UMFG.ProgramacaoIV.Dominio.Entities
         public string UsuarioCadastro { get; private set; }
         public bool IsAtivo { get; private set; } = true;
 
-        public AbstractEntidade(string usuarioAlteracao, string usuarioCadastro)
+        public AbstractEntitie(string usuarioAlteracao, string usuarioCadastro)
         {
             UsuarioAlteracao = string.IsNullOrWhiteSpace(usuarioAlteracao)
                     ? throw new ArgumentNullException(nameof(usuarioAlteracao)) : usuarioAlteracao;
